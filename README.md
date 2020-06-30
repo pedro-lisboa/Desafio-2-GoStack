@@ -19,3 +19,30 @@ PUT /repositories/:id: A rota deve alterar apenas o title, a url e as techs do r
 DELETE /repositories/:id: A rota deve deletar o repositório com o id presente nos parâmetros da rota;
 
 POST /repositories/:id/like: A rota deve aumentar o número de likes do repositório específico escolhido através do id presente nos parâmetros da rota, a cada chamada dessa rota, o número de likes deve ser aumentado em 1;
+
+
+## Instalação
+
+Utilize os comandos para instalar as dependencias:
+
+```sh
+npm install 
+or
+yarn
+or
+yarn instal
+```
+
+## Configuração para Desenvolvimento
+
+Para executar a aplicação:
+
+```
+yarn dev:server
+```
+
+## Meta
+
+Pedro Lisboa – [@Pedro-lbrt](https://www.linkedin.com/in/pedro-lbrt/...) – pegu_lisboa@hotmail.com
+
+[https://github.com/pedro-lisboa/GoBarber-backend](https://github.com/pedro-lisboa/)
