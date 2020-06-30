@@ -41,6 +41,12 @@ Para executar a aplicação:
 yarn dev:server
 ```
 
+Para executar os testes:
+
+```
+yarn test
+```
+
 ## Meta
 
 Pedro Lisboa – [@Pedro-lbrt](https://www.linkedin.com/in/pedro-lbrt/...) – pegu_lisboa@hotmail.com
